@@ -23,7 +23,6 @@ header h1 {
   margin: 0;
   display: inline;
 }
-
 header a {
   text-decoration: none;
   color: #fce138;
@@ -227,17 +226,7 @@ section {
   text-align: right;
 }
 
-.section-title {
-  font-size: 55px;
-  display: inline-block;
-  padding: 0 100px 20px 100px;
-  border-bottom: 3px solid;
-  margin-bottom: 35px;
-  color: #024e76;
-}
-
-/* Reach Out Styles */
-
+/* REACH OUT STYLES START */
 .contact {
   text-align: center;
   background: #024e76;
@@ -252,7 +241,7 @@ section {
   height: 400px;
 }
 
-.contact-info div{
+.contact-info div {
   width: 410px;
   display: inline-block;
   vertical-align: top;
@@ -266,7 +255,8 @@ section {
   font-size: 32px;
 }
 
-.contact-info p, .contact-info address {
+.contact-info p,
+.contact-info address {
   margin: 20px 0;
   line-height: 1.5;
   font-size: 20px;
@@ -277,15 +267,4 @@ section {
   color: #fce138;
 }
 
-/* Reach Out Styles end */
-
-.page-title{
-  color: #fce138;
-  border-bottom: 4px solid #fce138;
-  display: inline-block;
-  padding: 0 80px 15px 80px;
-  font-weight: normal;
-  font-size: 42px;
-  font-style: italic;
-
-}
+/* REACH OUT STYLES END */
