@@ -271,7 +271,7 @@ section {
   line-height: 1.5;
   color: #024e76;
 }
-
+/* adds bottom borders */
 .step:not(:last-child) {
   border-bottom: 1px solid #39a6b2;
 }
